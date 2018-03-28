@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m_app_name" translatable="false">Türkmen Tv</string>
+    <string name="internet_connection_required">Требуется Подключение к Интернету</string>
+</resources>
